@@ -1,0 +1,1 @@
+This is a simple category on NSString to ellipsize long strings after a certain length. 
